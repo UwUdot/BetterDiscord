@@ -4,7 +4,7 @@
  * @description Morse code translator
  * @version 0.0.1
  * @authorId 476399653307416586
- * @source https://github.com/STIHLjestempila/BetterDiscord
+ * @source https://github.com/STIHLjestempila/BetterDiscord/blob/main/BetterMorseCode.plugin.js
  */
 
 module.exports = class BetterMorseCode
