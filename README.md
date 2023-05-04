@@ -1,2 +1,2 @@
 # BetterDiscord
-BetterDiscord plugins, themes by STIHLjestempila
+BetterDiscord plugins, themes by UwU.
